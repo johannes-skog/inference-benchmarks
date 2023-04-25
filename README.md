@@ -72,10 +72,6 @@ class ModelToBenchmark(BenchmarkModel):
         )
 ```
 
-
-Benchmarks of different optimized inference engines for DL-models
-
-
 ## Benchmarking - inference time 
 
 Set up the Benchmarking class, 
